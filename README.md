@@ -31,7 +31,7 @@ A convolutional denoising autoencoder was trained to reconstruct clean handwritt
 - PSNR: 13.32 dB → 22.95 dB
 - MSE Reduction: 89.1%
 
-
+---
 ## Technologies
 
 - Python
